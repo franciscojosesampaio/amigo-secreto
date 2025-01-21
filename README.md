@@ -1,0 +1,1 @@
+Essa aplicação é parte do desafio proposto pela oracle para conclusão do plano next education, fiz da maneira que considerei melhor (Acredito sim que há o que melhorar, mais no momento é o que consegui fazer)
